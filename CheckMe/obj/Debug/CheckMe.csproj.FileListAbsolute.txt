@@ -1,0 +1,6 @@
+c:\users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\CheckMe\bin\Debug\CheckMe.exe.config
+c:\users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\CheckMe\bin\Debug\CheckMe.exe
+c:\users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\CheckMe\bin\Debug\CheckMe.pdb
+c:\users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\CheckMe\obj\Debug\CheckMe.csprojResolveAssemblyReference.cache
+c:\users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\CheckMe\obj\Debug\CheckMe.exe
+c:\users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\CheckMe\obj\Debug\CheckMe.pdb
