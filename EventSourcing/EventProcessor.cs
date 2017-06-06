@@ -1,11 +1,11 @@
 ﻿using System;
 
-namespace EventSourcing.Tests
+namespace EventSourcing
 {
     public class EventProcessor
     {
-       
-        internal void Process(Event ev)
+
+        public void Process(Event ev)
         {
             throw new NotImplementedException();
         }

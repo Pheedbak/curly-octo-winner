@@ -11,3 +11,18 @@ C:\Users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\EventSour
 C:\Users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\EventSourcing.Tests\bin\Debug\xunit.execution.desktop.xml
 C:\Users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\EventSourcing.Tests\obj\Debug\EventSourcing.Tests.dll
 C:\Users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\EventSourcing.Tests\obj\Debug\EventSourcing.Tests.pdb
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\EventSourcing.Tests.dll
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\EventSourcing.Tests.pdb
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\xunit.abstractions.dll
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\xunit.assert.dll
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\xunit.core.dll
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\xunit.abstractions.xml
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\xunit.assert.xml
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\xunit.core.xml
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\curly-octo-winner\EventSourcing.Tests\obj\Debug\EventSourcing.Tests.csprojResolveAssemblyReference.cache
+C:\curly-octo-winner\EventSourcing.Tests\obj\Debug\EventSourcing.Tests.dll
+C:\curly-octo-winner\EventSourcing.Tests\obj\Debug\EventSourcing.Tests.pdb
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\EventSourcing.dll
+C:\curly-octo-winner\EventSourcing.Tests\bin\Debug\EventSourcing.pdb

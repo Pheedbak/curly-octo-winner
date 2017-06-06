@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EventSourcing.Tests
+namespace EventSourcing
 {
-    abstract class Event
+    public abstract class Event
     {
         DateTime recorded, occured;
 
@@ -11,6 +11,6 @@ namespace EventSourcing.Tests
             this.occured = occured;
             this.recorded = DateTime.Now;
         }
-        abstract internal void Process();
+        abstract public void Process();
     }
 }

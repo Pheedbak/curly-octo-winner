@@ -1,4 +1,4 @@
-﻿namespace EventSourcing.Tests
+﻿namespace EventSourcing
 {
     public class Port
     {

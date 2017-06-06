@@ -3,3 +3,8 @@ C:\Users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\EventSour
 C:\Users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\EventSourcing\obj\Debug\EventSourcing.csprojResolveAssemblyReference.cache
 C:\Users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\EventSourcing\obj\Debug\EventSourcing.dll
 C:\Users\phil marshalsea\documents\visual studio 2017\Projects\CheckMe\EventSourcing\obj\Debug\EventSourcing.pdb
+C:\curly-octo-winner\EventSourcing\bin\Debug\EventSourcing.dll
+C:\curly-octo-winner\EventSourcing\bin\Debug\EventSourcing.pdb
+C:\curly-octo-winner\EventSourcing\obj\Debug\EventSourcing.csprojResolveAssemblyReference.cache
+C:\curly-octo-winner\EventSourcing\obj\Debug\EventSourcing.dll
+C:\curly-octo-winner\EventSourcing\obj\Debug\EventSourcing.pdb
