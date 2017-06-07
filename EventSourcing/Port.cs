@@ -1,6 +1,7 @@
 ﻿namespace EventSourcing
 {
-    public class Port
+    public enum Port
     {
+        AT_SEA,
     }
 }

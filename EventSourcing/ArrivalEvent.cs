@@ -4,13 +4,13 @@ namespace EventSourcing
 {
     public class ArrivalEvent: Event
     {
-        private Ship ship;
-        private Port port;
+        public Port Port { get; }
+        public Ship Ship { get; }
 
         public ArrivalEvent(DateTime occured, Ship ship, Port port) : base(occured)
         {
-            this.ship = ship;
-            this.port = port;
+            this.Ship = ship;
+            this.Port = port;
         }
 
         public override void Process()

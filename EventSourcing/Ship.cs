@@ -5,11 +5,16 @@ namespace EventSourcing
 {
     public class Ship
     {
-        public Port Port;
+        public Port Port { get; set; }
 
-        internal static void HandleArrival(ArrivalEvent arrivalEvent)
+        internal void HandleArrival(ArrivalEvent arrivalEvent)
         {
-            throw new NotImplementedException();
+            Port = arrivalEvent.Port;
+        }
+
+        public void HandleDepartue(DepartureEvent departureEvent)
+        {
+            Port = Port.AT_SEA;
         }
     }
 }
