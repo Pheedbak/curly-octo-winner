@@ -5,7 +5,7 @@ namespace EventSourcing
 {
     public class Ship
     {
-        public IEnumerable<Port> Port;
+        public Port Port;
 
         internal static void HandleArrival(ArrivalEvent arrivalEvent)
         {
