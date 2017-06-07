@@ -1,0 +1,13 @@
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\CircularBuffer.Tests.dll
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\CircularBuffer.Tests.pdb
+C:\curly-octo-winner\CircularBuffer.Tests\obj\Debug\CircularBuffer.Tests.csprojResolveAssemblyReference.cache
+C:\curly-octo-winner\CircularBuffer.Tests\obj\Debug\CircularBuffer.Tests.dll
+C:\curly-octo-winner\CircularBuffer.Tests\obj\Debug\CircularBuffer.Tests.pdb
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\xunit.abstractions.dll
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\xunit.core.dll
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\xunit.abstractions.xml
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\xunit.core.xml
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\xunit.assert.dll
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\xunit.assert.xml
+C:\curly-octo-winner\CircularBuffer.Tests\bin\Debug\xunit.execution.desktop.xml
