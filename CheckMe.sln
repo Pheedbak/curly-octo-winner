@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing", "EventSourc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBuffer.Tests", "CircularBuffer.Tests\CircularBuffer.Tests.csproj", "{09EB8726-CE88-4DC6-8B62-3C5DEC7FAB30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Tests", "Patterns.Tests\Patterns.Tests.csproj", "{E046BCA7-4960-41C6-8928-28CE7F4B650B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns", "Patterns\Patterns.csproj", "{D561756A-7E1F-4F23-AC8F-DA6577FB5B1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{09EB8726-CE88-4DC6-8B62-3C5DEC7FAB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09EB8726-CE88-4DC6-8B62-3C5DEC7FAB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09EB8726-CE88-4DC6-8B62-3C5DEC7FAB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E046BCA7-4960-41C6-8928-28CE7F4B650B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E046BCA7-4960-41C6-8928-28CE7F4B650B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E046BCA7-4960-41C6-8928-28CE7F4B650B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E046BCA7-4960-41C6-8928-28CE7F4B650B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D561756A-7E1F-4F23-AC8F-DA6577FB5B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D561756A-7E1F-4F23-AC8F-DA6577FB5B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D561756A-7E1F-4F23-AC8F-DA6577FB5B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D561756A-7E1F-4F23-AC8F-DA6577FB5B1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

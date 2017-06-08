@@ -1,0 +1,5 @@
+C:\curly-octo-winner\Patterns\bin\Debug\Patterns.dll
+C:\curly-octo-winner\Patterns\bin\Debug\Patterns.pdb
+C:\curly-octo-winner\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\curly-octo-winner\Patterns\obj\Debug\Patterns.dll
+C:\curly-octo-winner\Patterns\obj\Debug\Patterns.pdb

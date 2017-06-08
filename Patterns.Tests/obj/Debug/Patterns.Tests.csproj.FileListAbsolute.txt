@@ -1,0 +1,15 @@
+C:\curly-octo-winner\Patterns.Tests\obj\Debug\Patterns.Tests.csprojResolveAssemblyReference.cache
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\Patterns.Tests.dll
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\Patterns.Tests.pdb
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\xunit.abstractions.dll
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\xunit.assert.dll
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\xunit.core.dll
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\xunit.abstractions.xml
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\xunit.assert.xml
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\xunit.core.xml
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\curly-octo-winner\Patterns.Tests\obj\Debug\Patterns.Tests.dll
+C:\curly-octo-winner\Patterns.Tests\obj\Debug\Patterns.Tests.pdb
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\Patterns.dll
+C:\curly-octo-winner\Patterns.Tests\bin\Debug\Patterns.pdb

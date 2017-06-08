@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{09EB8726-CE88-4DC6-8B62-3C5DEC7FAB30}</ProjectGuid>
+    <ProjectGuid>{E046BCA7-4960-41C6-8928-28CE7F4B650B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CircularBuffer.Tests</RootNamespace>
-    <AssemblyName>CircularBuffer.Tests</AssemblyName>
+    <RootNamespace>Patterns.Tests</RootNamespace>
+    <AssemblyName>Patterns.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -52,9 +52,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CircularBufferTests.cs" />
-    <Compile Include="CircularBufferThing.cs" />
-    <Compile Include="ClientMessage.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -62,6 +60,12 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Patterns\Patterns.csproj">
+      <Project>{D561756A-7E1F-4F23-AC8F-DA6577FB5B1E}</Project>
+      <Name>Patterns</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
