@@ -20,12 +20,12 @@ namespace EventSourcing.Tests
         }
 
         [Theory]
-        [ClassData(typeof(Ship))]
-        public void SetSail(Ship shipToDepart)
+        [InlineData(29)]
+        public void SetSail(int hh)
         {
-            shipToDepart = new Ship { Port = Port.AT_SEA };
+            var shipToDepart = new Ship { Port = Port.AT_SEA };
             var ev = new DepartureEvent(DateTime.Now, shipToDepart, port);
-
+            ev.Process();
         }
     }
 }
